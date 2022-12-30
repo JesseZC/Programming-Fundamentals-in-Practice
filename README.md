@@ -1,2 +1,2 @@
-# Programming-Fundamentals-in-Pratice
-Programming-Fundamentals-in-Pratice-Assignment2
+# Programming-Fundamentals-in-Practice
+Programming-Fundamentals-in-Practice-Assignment2
