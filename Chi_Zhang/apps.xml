@@ -1,0 +1,27 @@
+<object-stream>
+  <list>
+    <models.ProductivityApp>
+      <developer>
+        <developerName>john</developerName>
+        <developerWebsite>john.com</developerWebsite>
+      </developer>
+      <appName>johnApp</appName>
+      <appSize>1.0</appSize>
+      <appVersion>1.1</appVersion>
+      <appCost>1.2</appCost>
+      <ratings/>
+    </models.ProductivityApp>
+    <models.GameApp>
+      <developer>
+        <developerName>rose</developerName>
+        <developerWebsite>rose.com</developerWebsite>
+      </developer>
+      <appName>roseApp</appName>
+      <appSize>2.0</appSize>
+      <appVersion>2.1</appVersion>
+      <appCost>2.2</appCost>
+      <ratings/>
+      <isMutiplayer>false</isMutiplayer>
+    </models.GameApp>
+  </list>
+</object-stream>
